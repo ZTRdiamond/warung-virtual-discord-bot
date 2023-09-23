@@ -1,0 +1,3 @@
+{
+  uang: "$getGlobalUserVar[uangrp;$authorID]"
+}

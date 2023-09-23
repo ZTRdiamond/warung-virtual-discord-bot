@@ -1,0 +1,4 @@
+{
+  "slash":["$createApplicationCommand[global;ping;Menampilkan bot latency;true]","$createApplicationCommand[global;help;Menampilkan semua commands;true]","$createApplicationCommand[global;profile;Menampilkan informasi player;true]","$createApplicationCommand[global;inventory;Menampilkan semua item yang ada di inventory;true]","$createApplicationCommand[global;start;Mulai permainanmu dengan command ini;true]","$createApplicationCommand[global;warung;Menampilkan info warung yang kamu miliki;true]","$createApplicationCommand[global;jualan;Mulai berjualan untuk mendapatkan uang;true]","$createApplicationCommand[1004774959614263307;eval;Execute aoi.js command code;true]","$createApplicationCommand[1004774959614263307;djseval;Execute djs command code;true]"]
+
+}
